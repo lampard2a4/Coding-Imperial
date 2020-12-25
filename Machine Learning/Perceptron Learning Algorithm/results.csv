@@ -1,0 +1,6 @@
+x1,x2,Prediction,Truth
+25,9,1,-1
+-9,10,1,1
+78,1,-1,1
+3,-5,-1,-1
+Simple Error,0.5
