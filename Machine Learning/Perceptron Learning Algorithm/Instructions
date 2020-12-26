@@ -1,0 +1,5 @@
+For Input and output examples, see the same folder.
+1.Edit the training and test workbooks with your own data.
+2.Put the two workbooks at the same directory as the cpp source file.
+3.Compile and run.
+4.See the test results and the error in the results.csv.
