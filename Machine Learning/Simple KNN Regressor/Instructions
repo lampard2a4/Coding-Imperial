@@ -1,0 +1,6 @@
+Simple KNN Regressor based on a final exam question.
+Supporting K<=2, unlimited dimensions of data.
+1.Input your training and test data as the example files.
+2.Compile and run the cpp file.
+3.Proceed as instructions by the console.
+4.Visualize the result with Excel.
