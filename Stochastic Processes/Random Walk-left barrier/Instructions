@@ -1,0 +1,4 @@
+The is a sample demo to a random walk with left barrier problem.
+1.Compile and run.
+2.Input the probability p and time T.
+3.See the result in results.csv. Visualize with Excel.
